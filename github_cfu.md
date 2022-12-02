@@ -1,0 +1,23 @@
+# Git commands
+- git init
+- git add
+- git commit -m "Message Here"
+- git diff
+- git status
+- git log
+- git push 
+- git clone [url]
+- git remote remove origin
+
+- git init
+- git add
+- git commit -m "message here"
+- git diff 
+- git status 
+- git log
+- git push
+- git clone
+- git remore remove origin
+- git
+- git
+- git
